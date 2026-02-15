@@ -21,6 +21,10 @@ SgtMarkIV for some VietDoom textures.
 
 Effingham Huffnagel for the Barbed Wire texture.
 
+Greneric Firedemon for the graffiti
+
+lambda_m from the HD discord for some poster designs
+
 And everyone who worked on the texture packs: Aquatex, nb_silv and rfhelltx.
 
 
