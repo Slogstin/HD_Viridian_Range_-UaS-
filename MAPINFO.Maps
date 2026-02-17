@@ -16,7 +16,7 @@ doomednums
 	23410 = ballisticsgelbaronV
 	23411 = ballisticsgelcybieV
 	
-//	23412 = 
+//	23412 = VirElevatorKey			--- From: Storm Chasers
 	23413 = UaS_TraumaKit
 	23414 = UaS_EmptyStimpack
 	23415 = UaS_EmptyMedikit
@@ -82,7 +82,7 @@ name = "Viridian Firing Range"
 }
 
 map range2 "Virid Inc. Firing Range"{
-	sky1="sky1"
+	sky1="SNST_SKY"
 	music="rangebgm"
 	resetinventory
 	nointermission
